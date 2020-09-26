@@ -1,3 +1,4 @@
+ # RGBtoHSV
  1) Click on the file and there will be a list of .cpp and .h files
  2) Enter the "color.cpp" file
  3) Scroll to the bottom and you will find the RGB2HSV() function
